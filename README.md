@@ -20,3 +20,4 @@ To execute the 6 compliance tests verifying features like partial payments, clos
 ```bash
 python test_susu.py
 ```
+# Project Status: Ready for Evaluation
